@@ -1,4 +1,4 @@
-package DesignPatterns.MultiThreadingSingleton.BillPughSingleton;
+package DesignPatterns.Singleton.MultiThreadingSingleton.BillPughSingleton;
 
 public class Logger {
 //    private static Logger instance ;

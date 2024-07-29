@@ -1,4 +1,4 @@
-package DesignPatterns.MultiThreadingSingleton.EnumBasedSingleton;
+package DesignPatterns.Singleton.MultiThreadingSingleton.EnumBasedSingleton;
 
 public class Client {
     public static void main(String[] args) {

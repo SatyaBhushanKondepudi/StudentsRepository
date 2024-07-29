@@ -11,3 +11,12 @@ public class StudentsApplication {
     }
 
 }
+
+/*
+    GET , PUT , POST , DELETE
+    STUDENT : ID , NAME , Department , Phone Number
+    GET BY ID
+    GET ALL STUDENTS
+    SINGLE EDITS
+    DELETE BY ID
+     */

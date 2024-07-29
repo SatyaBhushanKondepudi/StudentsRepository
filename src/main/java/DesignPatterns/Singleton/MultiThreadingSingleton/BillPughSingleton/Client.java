@@ -1,4 +1,4 @@
-package DesignPatterns.MultiThreadingSingleton.BillPughSingleton;
+package DesignPatterns.Singleton.MultiThreadingSingleton.BillPughSingleton;
 
 public class Client {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package DesignPatterns.Singleton.MultiThreadingSingleton.DoubleLockSingleton;
+package DesignPatterns.Singleton.MultiThreadingSingleton.SynchronizedMethod;
 
 public class LoggerThread extends Thread{
     @Override

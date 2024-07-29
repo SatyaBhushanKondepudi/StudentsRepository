@@ -1,4 +1,4 @@
-package DesignPatterns.MultiThreadingSingleton.EnumBasedSingleton;
+package DesignPatterns.Singleton.MultiThreadingSingleton.EnumBasedSingleton;
 
 public class LoggerThread extends Thread{
     @Override
